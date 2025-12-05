@@ -1,6 +1,6 @@
 import React from "react";
 import { useCurrentTab } from "@/hooks/useTabNavigation";
-import { Avatar, AvatarFallback } from "@/components/ui/avatar";
+import { Avatar, AvatarFallback, AvatarImage } from "@/components/ui/avatar";
 import { Logo } from "./Logo";
 import { 
   Filter, 
@@ -10,7 +10,8 @@ import {
   Package, 
   Users,
   ArrowLeft,
-  Menu
+  Menu,
+  LogOut
 } from "lucide-react";
 import { useLocation } from "wouter";
 import { Button } from "@/components/ui/button";
@@ -20,7 +21,16 @@ import {
   TooltipProvider,
   TooltipTrigger
 } from "@/components/ui/tooltip";
+import {
+  DropdownMenu,
+  DropdownMenuContent,
+  DropdownMenuItem,
+  DropdownMenuLabel,
+  DropdownMenuSeparator,
+  DropdownMenuTrigger,
+} from "@/components/ui/dropdown-menu";
 import { useIsMobile } from "@/hooks/use-mobile";
+import { useAuth } from "@/hooks/useAuth";
 
 interface MobileHeaderProps {
   title?: string;
@@ -31,6 +41,21 @@ export function MobileHeader({ title, backButton = false }: MobileHeaderProps) {
   const currentTab = useCurrentTab();
   const [location, navigate] = useLocation();
   const isMobile = useIsMobile();
+  const { user } = useAuth();
+
+  const handleLogout = () => {
+    window.location.href = '/api/logout';
+  };
+
+  const getUserInitials = () => {
+    if (user?.firstName && user?.lastName) {
+      return `${user.firstName[0]}${user.lastName[0]}`.toUpperCase();
+    }
+    if (user?.email) {
+      return user.email[0].toUpperCase();
+    }
+    return 'U';
+  };
   
   // Get icon based on current tab
   const getTabIcon = () => {
@@ -158,16 +183,37 @@ export function MobileHeader({ title, backButton = false }: MobileHeaderProps) {
             </Button>
           )}
           
-          <Button 
-            size="sm"
-            variant="ghost" 
-            className="text-gray-500 rounded-full ml-0.5 p-0 h-7 w-7 flex-shrink-0"
-            aria-label="User profile"
-          >
-            <Avatar className="h-6 w-6 border border-gray-100 shadow-sm">
-              <AvatarFallback className="bg-primary/10 text-primary text-xs font-medium">MR</AvatarFallback>
-            </Avatar>
-          </Button>
+          <DropdownMenu>
+            <DropdownMenuTrigger asChild>
+              <Button 
+                size="sm"
+                variant="ghost" 
+                className="text-gray-500 rounded-full ml-0.5 p-0 h-7 w-7 flex-shrink-0"
+                aria-label="User profile"
+              >
+                <Avatar className="h-6 w-6 border border-gray-100 shadow-sm">
+                  {user?.profileImageUrl && (
+                    <AvatarImage src={user.profileImageUrl} alt={user.firstName || 'User'} />
+                  )}
+                  <AvatarFallback className="bg-primary/10 text-primary text-xs font-medium">
+                    {getUserInitials()}
+                  </AvatarFallback>
+                </Avatar>
+              </Button>
+            </DropdownMenuTrigger>
+            <DropdownMenuContent align="end" className="w-48">
+              <DropdownMenuLabel className="text-xs">
+                {user?.firstName && user?.lastName 
+                  ? `${user.firstName} ${user.lastName}` 
+                  : user?.email || 'My Account'}
+              </DropdownMenuLabel>
+              <DropdownMenuSeparator />
+              <DropdownMenuItem onClick={handleLogout} className="text-red-600 focus:text-red-600 cursor-pointer">
+                <LogOut className="mr-2 h-3.5 w-3.5" />
+                <span className="text-sm">Log out</span>
+              </DropdownMenuItem>
+            </DropdownMenuContent>
+          </DropdownMenu>
         </div>
       </div>
     </header>

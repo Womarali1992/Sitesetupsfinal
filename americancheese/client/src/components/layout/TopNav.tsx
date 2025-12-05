@@ -1,13 +1,44 @@
 import React from "react";
 import { cn } from "@/lib/utils";
 import { useTabNavigation, useCurrentTab, type TabName } from "@/hooks/useTabNavigation";
-import { Avatar, AvatarFallback } from "@/components/ui/avatar";
+import { Avatar, AvatarFallback, AvatarImage } from "@/components/ui/avatar";
 import { Logo } from "./Logo";
 import { getDynamicModuleColor } from "@/lib/color-themes";
+import { useAuth } from "@/hooks/useAuth";
+import { useQueryClient } from "@tanstack/react-query";
+import {
+  DropdownMenu,
+  DropdownMenuContent,
+  DropdownMenuItem,
+  DropdownMenuLabel,
+  DropdownMenuSeparator,
+  DropdownMenuTrigger,
+} from "@/components/ui/dropdown-menu";
+import { LogOut, User } from "lucide-react";
 
 export function TopNav() {
   const { navigateToTab } = useTabNavigation();
   const currentTab = useCurrentTab();
+  const { user } = useAuth();
+  const queryClient = useQueryClient();
+
+  const handleLogout = async () => {
+    try {
+      window.location.href = '/api/logout';
+    } catch (error) {
+      console.error('Logout failed:', error);
+    }
+  };
+
+  const getUserInitials = () => {
+    if (user?.firstName && user?.lastName) {
+      return `${user.firstName[0]}${user.lastName[0]}`.toUpperCase();
+    }
+    if (user?.email) {
+      return user.email[0].toUpperCase();
+    }
+    return 'U';
+  };
 
   const navItems: { id: TabName; icon: string; label: string; isAdmin?: boolean }[] = [
     { id: "dashboard", icon: "ri-dashboard-line", label: "Dashboard" },
@@ -111,13 +142,34 @@ export function TopNav() {
             })}
           </div>
 
-          {/* User profile */}
+          {/* User profile with logout */}
           <div className="ml-4 pl-4 border-l border-gray-200">
-            <Avatar className="h-8 w-8">
-              <AvatarFallback className="bg-gradient-to-br from-blue-500 to-purple-600 text-white text-xs font-medium">
-                CM
-              </AvatarFallback>
-            </Avatar>
+            <DropdownMenu>
+              <DropdownMenuTrigger asChild>
+                <button className="focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-blue-500 rounded-full">
+                  <Avatar className="h-8 w-8 cursor-pointer hover:opacity-80 transition-opacity">
+                    {user?.profileImageUrl && (
+                      <AvatarImage src={user.profileImageUrl} alt={user.firstName || 'User'} />
+                    )}
+                    <AvatarFallback className="bg-gradient-to-br from-blue-500 to-purple-600 text-white text-xs font-medium">
+                      {getUserInitials()}
+                    </AvatarFallback>
+                  </Avatar>
+                </button>
+              </DropdownMenuTrigger>
+              <DropdownMenuContent align="end" className="w-56">
+                <DropdownMenuLabel>
+                  {user?.firstName && user?.lastName 
+                    ? `${user.firstName} ${user.lastName}` 
+                    : user?.email || 'My Account'}
+                </DropdownMenuLabel>
+                <DropdownMenuSeparator />
+                <DropdownMenuItem onClick={handleLogout} className="text-red-600 focus:text-red-600 cursor-pointer">
+                  <LogOut className="mr-2 h-4 w-4" />
+                  <span>Log out</span>
+                </DropdownMenuItem>
+              </DropdownMenuContent>
+            </DropdownMenu>
           </div>
         </div>
       </div>

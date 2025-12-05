@@ -1,4 +1,3 @@
-import { useEffect, useState } from "react";
 import { Switch, Route, useLocation } from "wouter";
 import { QueryClientProvider } from "@tanstack/react-query";
 
@@ -6,7 +5,6 @@ import { Toaster } from "@/components/ui/toaster";
 import { SimpleThemeProvider } from "@/components/SimpleThemeProvider";
 import NotFound from "@/pages/not-found";
 
-// Import all pages
 import ProjectsPage from "@/pages/projects";
 import ProjectDetailPage from "@/pages/projects/[id]";
 import ProjectTasksPage from "@/pages/projects/[id]/tasks";
@@ -24,80 +22,29 @@ import AdminPage from "@/pages/admin";
 import ProjectTemplatesPage from "@/pages/admin/project-templates";
 
 import { queryClient } from "./lib/queryClient";
+import { useAuth } from "@/hooks/useAuth";
 
 function AuthCheck({ children }: { children: React.ReactNode }) {
-  const [isAuthenticated, setIsAuthenticated] = useState<boolean | null>(null);
+  const { user, isLoading } = useAuth();
   const [location] = useLocation();
-  useEffect(() => {
-    const originalFetch = window.fetch;
-    window.fetch = function(input, init = {}) {
-      const authToken = localStorage.getItem('authToken');
-      if (authToken && init) {
-        init.headers = { ...init.headers, 'Authorization': `Bearer ${authToken}` };
-        init.credentials = 'include';
-      }
-      return originalFetch(input, init);
-    };
-    
-    const authToken = localStorage.getItem('authToken');
-    if (authToken) {
-      document.cookie = `cm-app-auth-token-123456=${authToken}; path=/; max-age=86400`;
-    }
-  }, []);
-  
-  useEffect(() => {
-    if (location === '/login') {
-      setIsAuthenticated(true);
-      return;
-    }
 
-    const authToken = localStorage.getItem('authToken');
-    if (!authToken) {
-      setIsAuthenticated(false);
-      window.location.href = '/login';
-      return;
-    }
-    const checkAuth = async () => {
-      try {
-        console.log('Verifying auth token...');
-        
-        // Check a secure API endpoint with token in header AND query param (double safety)
-        const response = await fetch(`/api/projects?token=${authToken}`, {
-          headers: {
-            'Authorization': `Bearer ${authToken}`, // Use token in header
-            'X-Access-Token': authToken, // Also send as custom header
-            'Cache-Control': 'no-cache'
-          },
-          credentials: 'include' // Include cookies
-        });
-        
-        if (response.status === 401) {
-          // Token invalid or expired
-          console.log('Auth token invalid, redirecting to login');
-          localStorage.removeItem('authToken');
-          setIsAuthenticated(false);
-          window.location.href = '/login';
-        } else {
-          // Token verified
-          console.log('Auth token valid, user is authenticated');
-          setIsAuthenticated(true);
-        }
-      } catch (error) {
-        console.error('Auth check error:', error);
-        setIsAuthenticated(false);
-      }
-    };
-    
-    checkAuth();
-  }, [location]);
-  
-  // Show loading indicator while checking auth
-  if (isAuthenticated === null) {
-    return <div className="min-h-screen flex items-center justify-center">
-      <div className="text-lg">Checking authentication...</div>
-    </div>;
+  if (location === '/login') {
+    return <>{children}</>;
   }
-  
+
+  if (isLoading) {
+    return (
+      <div className="min-h-screen flex items-center justify-center">
+        <div className="text-lg">Loading...</div>
+      </div>
+    );
+  }
+
+  if (!user) {
+    window.location.href = '/login';
+    return null;
+  }
+
   return <>{children}</>;
 }
 
