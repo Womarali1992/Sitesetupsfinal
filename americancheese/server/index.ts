@@ -4,7 +4,6 @@ import { registerRoutes } from "./routes";
 import unifiedCategoryRoutes from "./unified-category-routes";
 import { setupVite, serveStatic, log } from "./vite";
 import { initDatabase } from "./db";
-import { authMiddleware, sessionMiddleware } from "./auth";
 import cookieParser from 'cookie-parser';
 
 const app = express();
@@ -12,8 +11,7 @@ const app = express();
 app.use(express.json({ limit: '50mb' }));
 app.use(express.urlencoded({ extended: false, limit: '50mb' }));
 app.use(cookieParser()); // Parse cookies
-app.use(sessionMiddleware); // Keep for session storage
-app.use(authMiddleware); // Apply authentication
+// Session and authentication are now set up in routes.ts via setupAuth (Replit Auth)
 
 app.use((req, res, next) => {
   const start = Date.now();

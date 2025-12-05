@@ -40,7 +40,7 @@ import {
 } from "@shared/schema";
 import { z } from "zod";
 import { fromZodError } from "zod-validation-error";
-import { handleLogin, handleLogout } from "./auth";
+import { setupAuth, isAuthenticated } from "./replitAuth";
 import { db } from "./db";
 import { eq, sql, isNull, and, or, inArray } from "drizzle-orm";
 import csvParser from "csv-parser";
@@ -48,9 +48,20 @@ import { Readable } from "stream";
 import multer from "multer";
 
 export async function registerRoutes(app: Express): Promise<Server> {
-  // Authentication routes
-  app.post("/api/auth/login", handleLogin);
-  app.post("/api/auth/logout", handleLogout);
+  // Setup Replit Auth (handles /api/login, /api/callback, /api/logout)
+  await setupAuth(app);
+
+  // User route for Replit Auth
+  app.get('/api/auth/user', isAuthenticated, async (req: any, res: Response) => {
+    try {
+      const userId = req.user.claims.sub;
+      const user = await storage.getUser(userId);
+      res.json(user);
+    } catch (error) {
+      console.error("Error fetching user:", error);
+      res.status(500).json({ message: "Failed to fetch user" });
+    }
+  });
 
   // ==================== ADMIN TEMPLATE CATEGORIES ====================
   
