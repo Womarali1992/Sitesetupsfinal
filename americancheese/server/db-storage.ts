@@ -17,6 +17,7 @@ import {
   subtaskComments,
   sectionStates,
   sectionComments,
+  users,
   type Project, 
   type InsertProject, 
   type Task, 
@@ -46,7 +47,9 @@ import {
   type SectionState,
   type InsertSectionState,
   type SectionComment,
-  type InsertSectionComment
+  type InsertSectionComment,
+  type User,
+  type UpsertUser
 } from "@shared/schema";
 import { IStorage } from "./storage";
 
@@ -1296,5 +1299,26 @@ export class PostgresStorage implements IStorage {
       .returning({ id: sectionComments.id });
     
     return result.length > 0;
+  }
+
+  // User operations for Replit Auth
+  async getUser(id: string): Promise<User | undefined> {
+    const [user] = await db.select().from(users).where(eq(users.id, id));
+    return user;
+  }
+
+  async upsertUser(userData: UpsertUser): Promise<User> {
+    const [user] = await db
+      .insert(users)
+      .values(userData)
+      .onConflictDoUpdate({
+        target: users.id,
+        set: {
+          ...userData,
+          updatedAt: new Date(),
+        },
+      })
+      .returning();
+    return user;
   }
 }

@@ -43,7 +43,9 @@ import {
   type SectionState,
   type InsertSectionState,
   type SectionComment,
-  type InsertSectionComment
+  type InsertSectionComment,
+  type User,
+  type UpsertUser
 } from "@shared/schema";
 import { eq, and, isNull } from "drizzle-orm";
 import { db } from "./db";
@@ -160,6 +162,10 @@ export interface IStorage {
   createSectionComment(comment: InsertSectionComment): Promise<SectionComment>;
   updateSectionComment(id: number, comment: Partial<InsertSectionComment>): Promise<SectionComment | undefined>;
   deleteSectionComment(id: number): Promise<boolean>;
+
+  // User operations for Replit Auth
+  getUser(id: string): Promise<User | undefined>;
+  upsertUser(user: UpsertUser): Promise<User>;
 }
 
 export class MemStorage implements IStorage {
