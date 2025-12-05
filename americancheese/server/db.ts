@@ -35,7 +35,7 @@ if (!dbConfig.password) {
 let queryClient: any;
 let db: any;
 
-if (dbConfig.password && dbConfig.password !== 'password') {
+if (dbConfig.password) {
   try {
     queryClient = new Pool(dbConfig);
     
