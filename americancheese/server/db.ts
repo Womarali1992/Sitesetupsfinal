@@ -15,19 +15,20 @@ import {
 } from '../shared/schema';
 
 // Get database configuration from environment
+// Prefer Replit-provided env vars (PGHOST, etc.) over custom ones (DB_HOST, etc.)
 const dbConfig = {
-  host: process.env.DB_HOST || 'localhost',
-  port: parseInt(process.env.DB_PORT || '5432'),
-  database: process.env.DB_NAME || 'project_management',
-  user: process.env.DB_USER || 'postgres',
-  password: process.env.DB_PASSWORD || '',
+  host: process.env.PGHOST || process.env.DB_HOST || 'localhost',
+  port: parseInt(process.env.PGPORT || process.env.DB_PORT || '5432'),
+  database: process.env.PGDATABASE || process.env.DB_NAME || 'project_management',
+  user: process.env.PGUSER || process.env.DB_USER || 'postgres',
+  password: process.env.PGPASSWORD || process.env.DB_PASSWORD || '',
   max: 10,
   min: 0,
   idleTimeoutMillis: 30000
 };
 
 if (!dbConfig.password) {
-  console.warn('DB_PASSWORD is not defined in environment variables. The application will start with limited functionality.');
+  console.warn('Database password is not defined in environment variables. The application will start with limited functionality.');
 }
 
 // Create a PostgreSQL client with robust error handling
