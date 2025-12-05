@@ -81,3 +81,19 @@ Preferred communication style: Simple, everyday language.
 - **typescript**: Type checking
 - **tsx**: TypeScript execution
 - **drizzle-kit**: Database schema management
+
+## Replit Environment Setup
+
+### Database
+- Uses Replit's built-in PostgreSQL database
+- Environment variables: `PGHOST`, `PGPORT`, `PGUSER`, `PGPASSWORD`, `PGDATABASE`, `DATABASE_URL`
+- Database tables are auto-created on first run
+
+### Running the Application
+- Development: `npm run dev` (runs tsx server/index.ts)
+- Production build: `npm run build` (Vite build + esbuild server bundle)
+- Production start: `npm run start` (NODE_ENV=production node dist/index.js)
+- Port: 5000 (serves both API and frontend)
+
+### Login
+- Password-based authentication (password: richman)
