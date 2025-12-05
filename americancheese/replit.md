@@ -42,7 +42,8 @@ Preferred communication style: Simple, everyday language.
 - **Runtime**: Node.js with Express.js
 - **Language**: TypeScript (ESM modules)
 - **Database**: PostgreSQL with Drizzle ORM
-- **Authentication**: Session-based with cookies
+- **Authentication**: Replit Auth with OpenID Connect (supports Google, GitHub, Apple, X, email login)
+- **Session Management**: express-session with PostgreSQL storage (connect-pg-simple)
 - **File Handling**: Multer for uploads
 - **Data Storage**: PostgreSQL for all application data; local filesystem for attachments. Drizzle Kit for schema migrations.
 
@@ -95,5 +96,10 @@ Preferred communication style: Simple, everyday language.
 - Production start: `npm run start` (NODE_ENV=production node dist/index.js)
 - Port: 5000 (serves both API and frontend)
 
-### Login
-- Password-based authentication (password: richman)
+### Authentication
+- Uses Replit Auth with OpenID Connect for secure user authentication
+- Supports social login: Google, GitHub, Apple, X (Twitter), and email/password
+- Sessions stored in PostgreSQL via connect-pg-simple
+- User data persisted to users table (id, email, firstName, lastName, profileImageUrl)
+- Protected routes redirect to /login if unauthenticated
+- Logout available via user avatar dropdown in TopNav and MobileHeader
