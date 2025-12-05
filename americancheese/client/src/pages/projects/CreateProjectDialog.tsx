@@ -176,12 +176,15 @@ export function CreateProjectDialog({
 
       const response = await apiRequest("/api/projects", "POST", requestData);
       const newProject = await response.json();
+      console.log("Project creation response:", newProject);
+      console.log("New project ID:", newProject.id);
 
       // Apply preset categories and tasks if a preset was selected (not 'none')
       let categoriesCreated = 0;
       let tasksCreated = 0;
       
       if (data.presetId && data.presetId !== 'none' && newProject.id) {
+        console.log(`Applying preset '${data.presetId}' to project ${newProject.id}...`);
         try {
           // First load the preset categories
           const categoriesResponse = await apiRequest(`/api/projects/${newProject.id}/load-preset-categories`, "POST", {
@@ -189,7 +192,9 @@ export function CreateProjectDialog({
             replaceExisting: true,
             preserveTheme: true // Preserve the user's selected color theme
           });
+          console.log("Categories response status:", categoriesResponse.status);
           const categoriesResult = await categoriesResponse.json();
+          console.log("Categories result:", categoriesResult);
           categoriesCreated = categoriesResult.categoriesCreated || 0;
           console.log(`Successfully applied preset '${data.presetId}' with ${categoriesCreated} categories to project ${newProject.id}`);
 
