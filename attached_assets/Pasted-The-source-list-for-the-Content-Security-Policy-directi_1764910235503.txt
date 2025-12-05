@@ -1,0 +1,690 @@
+The source list for the Content Security Policy directive 'default-src' contains an invalid source: ''unsafe-dynamic''. It will be ignored.
+The source list for the Content Security Policy directive 'default-src' contains an invalid source: ''unsafe-dynamic''. It will be ignored.
+The source list for the Content Security Policy directive 'default-src' contains an invalid source: ''unsafe-dynamic''. It will be ignored.
+The source list for the Content Security Policy directive 'default-src' contains an invalid source: ''unsafe-dynamic''. It will be ignored.
+The source list for the Content Security Policy directive 'default-src' contains an invalid source: ''unsafe-dynamic''. It will be ignored.
+The source list for the Content Security Policy directive 'default-src' contains an invalid source: ''unsafe-dynamic''. It will be ignored.
+The source list for the Content Security Policy directive 'default-src' contains an invalid source: ''unsafe-dynamic''. It will be ignored.
+The source list for the Content Security Policy directive 'default-src' contains an invalid source: ''unsafe-dynamic''. It will be ignored.
+The source list for the Content Security Policy directive 'default-src' contains an invalid source: ''unsafe-dynamic''. It will be ignored.
+The source list for the Content Security Policy directive 'default-src' contains an invalid source: ''unsafe-dynamic''. It will be ignored.
+The source list for the Content Security Policy directive 'default-src' contains an invalid source: ''unsafe-dynamic''. It will be ignored.
+The source list for the Content Security Policy directive 'default-src' contains an invalid source: ''unsafe-dynamic''. It will be ignored.
+The Content-Security-Policy directive 'default-src' contains 'report-uri' as a source expression. Did you want to add it as a directive and forget a semicolon?
+The Content-Security-Policy directive 'default-src' contains 'report-uri' as a source expression. Did you want to add it as a directive and forget a semicolon?
+The Content-Security-Policy directive 'default-src' contains 'report-uri' as a source expression. Did you want to add it as a directive and forget a semicolon?
+The Content-Security-Policy directive 'default-src' contains 'report-uri' as a source expression. Did you want to add it as a directive and forget a semicolon?
+The Content-Security-Policy directive 'default-src' contains 'report-uri' as a source expression. Did you want to add it as a directive and forget a semicolon?
+The Content-Security-Policy directive 'default-src' contains 'report-uri' as a source expression. Did you want to add it as a directive and forget a semicolon?
+The Content-Security-Policy directive 'default-src' contains 'report-uri' as a source expression. Did you want to add it as a directive and forget a semicolon?
+The Content-Security-Policy directive 'default-src' contains 'report-uri' as a source expression. Did you want to add it as a directive and forget a semicolon?
+The Content-Security-Policy directive 'default-src' contains 'report-uri' as a source expression. Did you want to add it as a directive and forget a semicolon?
+The Content-Security-Policy directive 'default-src' contains 'report-uri' as a source expression. Did you want to add it as a directive and forget a semicolon?
+The Content-Security-Policy directive 'default-src' contains 'report-uri' as a source expression. Did you want to add it as a directive and forget a semicolon?
+The Content-Security-Policy directive 'default-src' contains 'report-uri' as a source expression. Did you want to add it as a directive and forget a semicolon?
+The source list for Content Security Policy directive 'default-src' contains a source with an invalid path: '/api/4509669501698048/security/?sentry_key=7eb3d90eb4660416caf507087367e67e'. The query component, including the '?', will be ignored.
+The source list for Content Security Policy directive 'default-src' contains a source with an invalid path: '/api/4509669501698048/security/?sentry_key=7eb3d90eb4660416caf507087367e67e'. The query component, including the '?', will be ignored.
+The source list for Content Security Policy directive 'default-src' contains a source with an invalid path: '/api/4509669501698048/security/?sentry_key=7eb3d90eb4660416caf507087367e67e'. The query component, including the '?', will be ignored.
+The source list for Content Security Policy directive 'default-src' contains a source with an invalid path: '/api/4509669501698048/security/?sentry_key=7eb3d90eb4660416caf507087367e67e'. The query component, including the '?', will be ignored.
+The source list for Content Security Policy directive 'default-src' contains a source with an invalid path: '/api/4509669501698048/security/?sentry_key=7eb3d90eb4660416caf507087367e67e'. The query component, including the '?', will be ignored.
+The source list for Content Security Policy directive 'default-src' contains a source with an invalid path: '/api/4509669501698048/security/?sentry_key=7eb3d90eb4660416caf507087367e67e'. The query component, including the '?', will be ignored.
+The source list for Content Security Policy directive 'default-src' contains a source with an invalid path: '/api/4509669501698048/security/?sentry_key=7eb3d90eb4660416caf507087367e67e'. The query component, including the '?', will be ignored.
+The source list for Content Security Policy directive 'default-src' contains a source with an invalid path: '/api/4509669501698048/security/?sentry_key=7eb3d90eb4660416caf507087367e67e'. The query component, including the '?', will be ignored.
+The source list for Content Security Policy directive 'default-src' contains a source with an invalid path: '/api/4509669501698048/security/?sentry_key=7eb3d90eb4660416caf507087367e67e'. The query component, including the '?', will be ignored.
+The source list for Content Security Policy directive 'default-src' contains a source with an invalid path: '/api/4509669501698048/security/?sentry_key=7eb3d90eb4660416caf507087367e67e'. The query component, including the '?', will be ignored.
+The source list for Content Security Policy directive 'default-src' contains a source with an invalid path: '/api/4509669501698048/security/?sentry_key=7eb3d90eb4660416caf507087367e67e'. The query component, including the '?', will be ignored.
+The source list for Content Security Policy directive 'default-src' contains a source with an invalid path: '/api/4509669501698048/security/?sentry_key=7eb3d90eb4660416caf507087367e67e'. The query component, including the '?', will be ignored.
+ [Coframe] Replit Enterprise watcher loaded
+Sitesetupsfinal:1 The source list for the Content Security Policy directive 'default-src' contains an invalid source: ''unsafe-dynamic''. It will be ignored.
+Sitesetupsfinal:1 The Content-Security-Policy directive 'default-src' contains 'report-uri' as a source expression. Did you want to add it as a directive and forget a semicolon?
+Sitesetupsfinal:1 The source list for Content Security Policy directive 'default-src' contains a source with an invalid path: '/api/4509669501698048/security/?sentry_key=7eb3d90eb4660416caf507087367e67e'. The query component, including the '?', will be ignored.
+ingest.app.coframe.com/ingest/v2/batched_monitoring/68c9ad4d4cddb58cf3a1f93d/:1  Failed to load resource: the server responded with a status of 403 ()
+ingest.app.coframe.com/ingest/v2/batched_events/68c9ad4d4cddb58cf3a1f93d/:1  Failed to load resource: the server responded with a status of 403 ()
+ 
+      /////////////////////
+   ///////////////////////////
+  ////////@@@@@@@//////////////
+  ////////@@@@@@@//////////////
+  ////////@@@@@@@//////////////        Curious and driven?
+  ///////////////@@@@@@@///////        Work with us!
+  ///////////////@@@@@@@///////
+  ///////////////@@@@@@@///////        https://join.replit.com/hack.with.us
+  ////////@@@@@@@//////////////
+  ////////@@@@@@@//////////////
+  ////////@@@@@@#//////////////
+   ///////////////////////////
+      /////////////////////
+      
+ Download the Apollo DevTools for a better development experience: https://chrome.google.com/webstore/detail/apollo-client-developer-t/jdkknkkbebbapilgoeccciglkfbmbnfm
+ingest.app.coframe.com/ingest/v2/session_result/:1  Failed to load resource: the server responded with a status of 403 ()
+ [LaunchDarkly] LaunchDarkly client initialized
+Error while parsing the 'sandbox' attribute: 'allow-downloads-without-user-activation' is an invalid sandbox flag.
+Error while parsing the 'sandbox' attribute: 'allow-downloads-without-user-activation' is an invalid sandbox flag.
+Error while parsing the 'sandbox' attribute: 'allow-downloads-without-user-activation' is an invalid sandbox flag.
+Error while parsing the 'sandbox' attribute: 'allow-downloads-without-user-activation' is an invalid sandbox flag.
+Error while parsing the 'sandbox' attribute: 'allow-downloads-without-user-activation' is an invalid sandbox flag.
+Error while parsing the 'sandbox' attribute: 'allow-downloads-without-user-activation' is an invalid sandbox flag.
+Error while parsing the 'sandbox' attribute: 'allow-downloads-without-user-activation' is an invalid sandbox flag.
+Error while parsing the 'sandbox' attribute: 'allow-downloads-without-user-activation' is an invalid sandbox flag.
+Error while parsing the 'sandbox' attribute: 'allow-downloads-without-user-activation' is an invalid sandbox flag.
+Error while parsing the 'sandbox' attribute: 'allow-downloads-without-user-activation' is an invalid sandbox flag.
+ Unrecognized feature: 'ambient-light-sensor'.
+z @ ed1e693c96a75807.js:2
+ Unrecognized feature: 'battery'.
+z @ ed1e693c96a75807.js:2
+ Unrecognized feature: 'execution-while-not-rendered'.
+z @ ed1e693c96a75807.js:2
+ Unrecognized feature: 'execution-while-out-of-viewport'.
+z @ ed1e693c96a75807.js:2
+ Unrecognized feature: 'layout-animations'.
+z @ ed1e693c96a75807.js:2
+ Unrecognized feature: 'legacy-image-formats'.
+z @ ed1e693c96a75807.js:2
+ Unrecognized feature: 'navigation-override'.
+z @ ed1e693c96a75807.js:2
+ Unrecognized feature: 'oversized-images'.
+z @ ed1e693c96a75807.js:2
+ Unrecognized feature: 'publickey-credentials'.
+z @ ed1e693c96a75807.js:2
+ Unrecognized feature: 'speaker-selection'.
+z @ ed1e693c96a75807.js:2
+ Unrecognized feature: 'unoptimized-images'.
+z @ ed1e693c96a75807.js:2
+ Unrecognized feature: 'unsized-media'.
+z @ ed1e693c96a75807.js:2
+ Unrecognized feature: 'pointer-lock'.
+z @ ed1e693c96a75807.js:2
+ Allow attribute will take precedence over 'allowfullscreen'.
+z @ ed1e693c96a75807.js:2
+ Allow attribute will take precedence over 'allowpaymentrequest'.
+z @ ed1e693c96a75807.js:2
+ec991d2b-a764-4188-9498-5593fabfbba9-00-2ruwx6pcahuv8.riker.replit.dev/__replco/workspace_iframe.html?initialPath=%2F&id=%3Ar27%3A:32 Unrecognized feature: 'ambient-light-sensor'.
+ec991d2b-a764-4188-9498-5593fabfbba9-00-2ruwx6pcahuv8.riker.replit.dev/__replco/workspace_iframe.html?initialPath=%2F&id=%3Ar27%3A:32 Unrecognized feature: 'battery'.
+ec991d2b-a764-4188-9498-5593fabfbba9-00-2ruwx6pcahuv8.riker.replit.dev/__replco/workspace_iframe.html?initialPath=%2F&id=%3Ar27%3A:32 Unrecognized feature: 'execution-while-not-rendered'.
+ec991d2b-a764-4188-9498-5593fabfbba9-00-2ruwx6pcahuv8.riker.replit.dev/__replco/workspace_iframe.html?initialPath=%2F&id=%3Ar27%3A:32 Unrecognized feature: 'execution-while-out-of-viewport'.
+ec991d2b-a764-4188-9498-5593fabfbba9-00-2ruwx6pcahuv8.riker.replit.dev/__replco/workspace_iframe.html?initialPath=%2F&id=%3Ar27%3A:32 Unrecognized feature: 'layout-animations'.
+ec991d2b-a764-4188-9498-5593fabfbba9-00-2ruwx6pcahuv8.riker.replit.dev/__replco/workspace_iframe.html?initialPath=%2F&id=%3Ar27%3A:32 Unrecognized feature: 'legacy-image-formats'.
+ec991d2b-a764-4188-9498-5593fabfbba9-00-2ruwx6pcahuv8.riker.replit.dev/__replco/workspace_iframe.html?initialPath=%2F&id=%3Ar27%3A:32 Unrecognized feature: 'navigation-override'.
+ec991d2b-a764-4188-9498-5593fabfbba9-00-2ruwx6pcahuv8.riker.replit.dev/__replco/workspace_iframe.html?initialPath=%2F&id=%3Ar27%3A:32 Unrecognized feature: 'oversized-images'.
+ec991d2b-a764-4188-9498-5593fabfbba9-00-2ruwx6pcahuv8.riker.replit.dev/__replco/workspace_iframe.html?initialPath=%2F&id=%3Ar27%3A:32 Unrecognized feature: 'publickey-credentials'.
+ec991d2b-a764-4188-9498-5593fabfbba9-00-2ruwx6pcahuv8.riker.replit.dev/__replco/workspace_iframe.html?initialPath=%2F&id=%3Ar27%3A:32 Unrecognized feature: 'speaker-selection'.
+ec991d2b-a764-4188-9498-5593fabfbba9-00-2ruwx6pcahuv8.riker.replit.dev/__replco/workspace_iframe.html?initialPath=%2F&id=%3Ar27%3A:32 Unrecognized feature: 'unoptimized-images'.
+ec991d2b-a764-4188-9498-5593fabfbba9-00-2ruwx6pcahuv8.riker.replit.dev/__replco/workspace_iframe.html?initialPath=%2F&id=%3Ar27%3A:32 Unrecognized feature: 'unsized-media'.
+ec991d2b-a764-4188-9498-5593fabfbba9-00-2ruwx6pcahuv8.riker.replit.dev/__replco/workspace_iframe.html?initialPath=%2F&id=%3Ar27%3A:32 Allow attribute will take precedence over 'allowfullscreen'.
+ec991d2b-a764-4188-9498-5593fabfbba9-00-2ruwx6pcahuv8.riker.replit.dev/__replco/workspace_iframe.html?initialPath=%2F&id=%3Ar27%3A:32 Allow attribute will take precedence over 'allowpaymentrequest'.
+ingest.app.coframe.com/ingest/v2/batched_events/68c9ad4d4cddb58cf3a1f93d/:1  Failed to load resource: the server responded with a status of 403 ()
+Sitesetupsfinal:1 Banner not shown: beforeinstallpromptevent.preventDefault() called. The page must call beforeinstallpromptevent.prompt() to show the banner.
+ec991d2b-a764-4188-9498-5593fabfbba9-00-2ruwx6pcahuv8.riker.replit.dev/api/materials:1  Failed to load resource: the server responded with a status of 500 (Internal Server Error)
+ec991d2b-a764-4188-9498-5593fabfbba9-00-2ruwx6pcahuv8.riker.replit.dev/api/tasks:1  Failed to load resource: the server responded with a status of 500 (Internal Server Error)
+ec991d2b-a764-4188-9498-5593fabfbba9-00-2ruwx6pcahuv8.riker.replit.dev/api/labor:1  Failed to load resource: the server responded with a status of 500 (Internal Server Error)
+ec991d2b-a764-4188-9498-5593fabfbba9-00-2ruwx6pcahuv8.riker.replit.dev/api/tasks:1  Failed to load resource: the server responded with a status of 500 (Internal Server Error)
+ec991d2b-a764-4188-9498-5593fabfbba9-00-2ruwx6pcahuv8.riker.replit.dev/api/projects/1/template-categories:1  Failed to load resource: the server responded with a status of 500 (Internal Server Error)
+ec991d2b-a764-4188-9498-5593fabfbba9-00-2ruwx6pcahuv8.riker.replit.dev/api/projects/1/categories:1  Failed to load resource: the server responded with a status of 500 (Internal Server Error)
+ec991d2b-a764-4188-9498-5593fabfbba9-00-2ruwx6pcahuv8.riker.replit.dev/api/projects/1/template-categories:1  Failed to load resource: the server responded with a status of 500 (Internal Server Error)
+ec991d2b-a764-4188-9498-5593fabfbba9-00-2ruwx6pcahuv8.riker.replit.dev/api/projects/1/categories:1  Failed to load resource: the server responded with a status of 500 (Internal Server Error)
+ec991d2b-a764-4188-9498-5593fabfbba9-00-2ruwx6pcahuv8.riker.replit.dev/api/projects/2/load-preset-categories:1  Failed to load resource: the server responded with a status of 400 (Bad Request)
+ec991d2b-a764-4188-9498-5593fabfbba9-00-2ruwx6pcahuv8.riker.replit.dev/api/tasks:1  Failed to load resource: the server responded with a status of 500 (Internal Server Error)
+ec991d2b-a764-4188-9498-5593fabfbba9-00-2ruwx6pcahuv8.riker.replit.dev/api/projects/2/template-categories:1  Failed to load resource: the server responded with a status of 500 (Internal Server Error)
+ingest.app.coframe.com/ingest/v2/batched_events/68c9ad4d4cddb58cf3a1f93d/:1  Failed to load resource: the server responded with a status of 403 ()
+ec991d2b-a764-4188-9498-5593fabfbba9-00-2ruwx6pcahuv8.riker.replit.dev/api/materials:1  Failed to load resource: the server responded with a status of 500 (Internal Server Error)
+ec991d2b-a764-4188-9498-5593fabfbba9-00-2ruwx6pcahuv8.riker.replit.dev/api/tasks:1  Failed to load resource: the server responded with a status of 500 (Internal Server Error)
+ec991d2b-a764-4188-9498-5593fabfbba9-00-2ruwx6pcahuv8.riker.replit.dev/api/labor:1  Failed to load resource: the server responded with a status of 500 (Internal Server Error)
+ec991d2b-a764-4188-9498-5593fabfbba9-00-2ruwx6pcahuv8.riker.replit.dev/api/projects/2/categories:1  Failed to load resource: the server responded with a status of 500 (Internal Server Error)
+ec991d2b-a764-4188-9498-5593fabfbba9-00-2ruwx6pcahuv8.riker.replit.dev/api/projects/1/template-categories:1  Failed to load resource: the server responded with a status of 500 (Internal Server Error)
+ec991d2b-a764-4188-9498-5593fabfbba9-00-2ruwx6pcahuv8.riker.replit.dev/api/projects/2/template-categories:1  Failed to load resource: the server responded with a status of 500 (Internal Server Error)
+ec991d2b-a764-4188-9498-5593fabfbba9-00-2ruwx6pcahuv8.riker.replit.dev/api/projects/1/categories:1  Failed to load resource: the server responded with a status of 500 (Internal Server Error)
+ec991d2b-a764-4188-9498-5593fabfbba9-00-2ruwx6pcahuv8.riker.replit.dev/api/projects/2/categories:1  Failed to load resource: the server responded with a status of 500 (Internal Server Error)
+ec991d2b-a764-4188-9498-5593fabfbba9-00-2ruwx6pcahuv8.riker.replit.dev/api/projects/1/template-categories:1  Failed to load resource: the server responded with a status of 500 (Internal Server Error)
+ec991d2b-a764-4188-9498-5593fabfbba9-00-2ruwx6pcahuv8.riker.replit.dev/api/projects/1/categories:1  Failed to load resource: the server responded with a status of 500 (Internal Server Error)
+ec991d2b-a764-4188-9498-5593fabfbba9-00-2ruwx6pcahuv8.riker.replit.dev/api/projects/2/template-categories:1  Failed to load resource: the server responded with a status of 500 (Internal Server Error)
+ec991d2b-a764-4188-9498-5593fabfbba9-00-2ruwx6pcahuv8.riker.replit.dev/api/projects/2/tasks:1  Failed to load resource: the server responded with a status of 500 (Internal Server Error)
+ec991d2b-a764-4188-9498-5593fabfbba9-00-2ruwx6pcahuv8.riker.replit.dev/api/projects/2/materials:1  Failed to load resource: the server responded with a status of 500 (Internal Server Error)
+ec991d2b-a764-4188-9498-5593fabfbba9-00-2ruwx6pcahuv8.riker.replit.dev/api/projects/2/categories/flat:1  Failed to load resource: the server responded with a status of 500 (Internal Server Error)
+ec991d2b-a764-4188-9498-5593fabfbba9-00-2ruwx6pcahuv8.riker.replit.dev/api/projects/2/labor:1  Failed to load resource: the server responded with a status of 500 (Internal Server Error)
+ec991d2b-a764-4188-9498-5593fabfbba9-00-2ruwx6pcahuv8.riker.replit.dev/api/materials:1  Failed to load resource: the server responded with a status of 500 (Internal Server Error)
+ec991d2b-a764-4188-9498-5593fabfbba9-00-2ruwx6pcahuv8.riker.replit.dev/api/projects/2/template-categories:1  Failed to load resource: the server responded with a status of 500 (Internal Server Error)
+ec991d2b-a764-4188-9498-5593fabfbba9-00-2ruwx6pcahuv8.riker.replit.dev/api/projects/2/labor:1  Failed to load resource: the server responded with a status of 500 (Internal Server Error)
+ec991d2b-a764-4188-9498-5593fabfbba9-00-2ruwx6pcahuv8.riker.replit.dev/api/projects/2/labor:1  Failed to load resource: the server responded with a status of 500 (Internal Server Error)
+ec991d2b-a764-4188-9498-5593fabfbba9-00-2ruwx6pcahuv8.riker.replit.dev/api/projects/2/load-preset-categories:1  Failed to load resource: the server responded with a status of 400 (Bad Request)
+ec991d2b-a764-4188-9498-5593fabfbba9-00-2ruwx6pcahuv8.riker.replit.dev/api/projects/2/labor:1  Failed to load resource: the server responded with a status of 500 (Internal Server Error)
+ingest.app.coframe.com/ingest/v2/batched_events/68c9ad4d4cddb58cf3a1f93d/:1  Failed to load resource: the server responded with a status of 403 ()
+(index):1  Failed to load resource: the server responded with a status of 502 (Bad Gateway)
+ec991d2b-a764-4188-9498-5593fabfbba9-00-2ruwx6pcahuv8.riker.replit.dev/projects/2:1  Failed to load resource: the server responded with a status of 502 (Bad Gateway)
+ingest.app.coframe.com/ingest/v2/batched_events/68c9ad4d4cddb58cf3a1f93d/:1  Failed to load resource: the server responded with a status of 403 ()
+ec991d2b-a764-4188-9498-5593fabfbba9-00-2ruwx6pcahuv8.riker.replit.dev/api/projects/2/materials:1  Failed to load resource: the server responded with a status of 500 (Internal Server Error)
+ec991d2b-a764-4188-9498-5593fabfbba9-00-2ruwx6pcahuv8.riker.replit.dev/api/projects/2/template-categories:1  Failed to load resource: the server responded with a status of 500 (Internal Server Error)
+ec991d2b-a764-4188-9498-5593fabfbba9-00-2ruwx6pcahuv8.riker.replit.dev/api/projects/2/labor:1  Failed to load resource: the server responded with a status of 500 (Internal Server Error)
+ec991d2b-a764-4188-9498-5593fabfbba9-00-2ruwx6pcahuv8.riker.replit.dev/api/projects/2/categories/flat:1  Failed to load resource: the server responded with a status of 500 (Internal Server Error)
+ec991d2b-a764-4188-9498-5593fabfbba9-00-2ruwx6pcahuv8.riker.replit.dev/api/projects/1/template-categories:1  Failed to load resource: the server responded with a status of 500 (Internal Server Error)
+ec991d2b-a764-4188-9498-5593fabfbba9-00-2ruwx6pcahuv8.riker.replit.dev/api/materials:1  Failed to load resource: the server responded with a status of 500 (Internal Server Error)
+ec991d2b-a764-4188-9498-5593fabfbba9-00-2ruwx6pcahuv8.riker.replit.dev/api/projects/2/labor:1  Failed to load resource: the server responded with a status of 500 (Internal Server Error)
+ec991d2b-a764-4188-9498-5593fabfbba9-00-2ruwx6pcahuv8.riker.replit.dev/api/projects/2/template-categories:1  Failed to load resource: the server responded with a status of 500 (Internal Server Error)
+ec991d2b-a764-4188-9498-5593fabfbba9-00-2ruwx6pcahuv8.riker.replit.dev/api/projects/2/load-preset-categories:1  Failed to load resource: the server responded with a status of 400 (Bad Request)
+ingest.app.coframe.com/ingest/v2/batched_events/68c9ad4d4cddb58cf3a1f93d/:1  Failed to load resource: the server responded with a status of 403 ()
+ec991d2b-a764-4188-9498-5593fabfbba9-00-2ruwx6pcahuv8.riker.replit.dev/api/projects/2/materials:1  Failed to load resource: the server responded with a status of 500 (Internal Server Error)
+ec991d2b-a764-4188-9498-5593fabfbba9-00-2ruwx6pcahuv8.riker.replit.dev/api/projects/2/categories/flat:1  Failed to load resource: the server responded with a status of 500 (Internal Server Error)
+ec991d2b-a764-4188-9498-5593fabfbba9-00-2ruwx6pcahuv8.riker.replit.dev/api/projects/2/template-categories:1  Failed to load resource: the server responded with a status of 500 (Internal Server Error)
+ec991d2b-a764-4188-9498-5593fabfbba9-00-2ruwx6pcahuv8.riker.replit.dev/api/projects/2/labor:1  Failed to load resource: the server responded with a status of 500 (Internal Server Error)
+ec991d2b-a764-4188-9498-5593fabfbba9-00-2ruwx6pcahuv8.riker.replit.dev/api/projects/1/template-categories:1  Failed to load resource: the server responded with a status of 500 (Internal Server Error)
+ec991d2b-a764-4188-9498-5593fabfbba9-00-2ruwx6pcahuv8.riker.replit.dev/api/materials:1  Failed to load resource: the server responded with a status of 500 (Internal Server Error)
+ec991d2b-a764-4188-9498-5593fabfbba9-00-2ruwx6pcahuv8.riker.replit.dev/api/projects/2/labor:1  Failed to load resource: the server responded with a status of 500 (Internal Server Error)
+ec991d2b-a764-4188-9498-5593fabfbba9-00-2ruwx6pcahuv8.riker.replit.dev/api/projects/2/template-categories:1  Failed to load resource: the server responded with a status of 500 (Internal Server Error)
+ec991d2b-a764-4188-9498-5593fabfbba9-00-2ruwx6pcahuv8.riker.replit.dev/api/projects/2/load-preset-categories:1  Failed to load resource: the server responded with a status of 400 (Bad Request)
+ec991d2b-a764-4188-9498-5593fabfbba9-00-2ruwx6pcahuv8.riker.replit.dev/api/projects/2/categories:1  Failed to load resource: the server responded with a status of 500 (Internal Server Error)
+ec991d2b-a764-4188-9498-5593fabfbba9-00-2ruwx6pcahuv8.riker.replit.dev/api/projects/2/template-categories:1  Failed to load resource: the server responded with a status of 500 (Internal Server Error)
+ec991d2b-a764-4188-9498-5593fabfbba9-00-2ruwx6pcahuv8.riker.replit.dev/api/projects/1/template-categories:1  Failed to load resource: the server responded with a status of 500 (Internal Server Error)
+ec991d2b-a764-4188-9498-5593fabfbba9-00-2ruwx6pcahuv8.riker.replit.dev/api/materials:1  Failed to load resource: the server responded with a status of 500 (Internal Server Error)
+ec991d2b-a764-4188-9498-5593fabfbba9-00-2ruwx6pcahuv8.riker.replit.dev/api/projects/1/categories:1  Failed to load resource: the server responded with a status of 500 (Internal Server Error)
+ec991d2b-a764-4188-9498-5593fabfbba9-00-2ruwx6pcahuv8.riker.replit.dev/api/projects/2/categories:1  Failed to load resource: the server responded with a status of 500 (Internal Server Error)
+ec991d2b-a764-4188-9498-5593fabfbba9-00-2ruwx6pcahuv8.riker.replit.dev/api/labor:1  Failed to load resource: the server responded with a status of 500 (Internal Server Error)
+ec991d2b-a764-4188-9498-5593fabfbba9-00-2ruwx6pcahuv8.riker.replit.dev/api/projects/1/categories:1  Failed to load resource: the server responded with a status of 500 (Internal Server Error)
+ingest.app.coframe.com/ingest/v2/batched_events/68c9ad4d4cddb58cf3a1f93d/:1  Failed to load resource: the server responded with a status of 403 ()
+ec991d2b-a764-4188-9498-5593fabfbba9-00-2ruwx6pcahuv8.riker.replit.dev/api/labor:1  Failed to load resource: the server responded with a status of 500 (Internal Server Error)
+ec991d2b-a764-4188-9498-5593fabfbba9-00-2ruwx6pcahuv8.riker.replit.dev/api/projects/1/template-categories:1  Failed to load resource: the server responded with a status of 500 (Internal Server Error)
+ec991d2b-a764-4188-9498-5593fabfbba9-00-2ruwx6pcahuv8.riker.replit.dev/api/projects/2/template-categories:1  Failed to load resource: the server responded with a status of 500 (Internal Server Error)
+ec991d2b-a764-4188-9498-5593fabfbba9-00-2ruwx6pcahuv8.riker.replit.dev/api/projects/1/categories:1  Failed to load resource: the server responded with a status of 500 (Internal Server Error)
+ec991d2b-a764-4188-9498-5593fabfbba9-00-2ruwx6pcahuv8.riker.replit.dev/api/projects/2/categories:1  Failed to load resource: the server responded with a status of 500 (Internal Server Error)
+ec991d2b-a764-4188-9498-5593fabfbba9-00-2ruwx6pcahuv8.riker.replit.dev/api/projects/1/template-categories:1  Failed to load resource: the server responded with a status of 500 (Internal Server Error)
+ec991d2b-a764-4188-9498-5593fabfbba9-00-2ruwx6pcahuv8.riker.replit.dev/api/projects/1/categories:1  Failed to load resource: the server responded with a status of 500 (Internal Server Error)
+ec991d2b-a764-4188-9498-5593fabfbba9-00-2ruwx6pcahuv8.riker.replit.dev/api/projects/2/categories:1  Failed to load resource: the server responded with a status of 500 (Internal Server Error)
+ec991d2b-a764-4188-9498-5593fabfbba9-00-2ruwx6pcahuv8.riker.replit.dev/api/projects/2/template-categories:1  Failed to load resource: the server responded with a status of 500 (Internal Server Error)
+(index):1  Failed to load resource: the server responded with a status of 502 (Bad Gateway)
+(index):1  Failed to load resource: the server responded with a status of 502 (Bad Gateway)
+[id].tsx:1  Failed to load resource: the server responded with a status of 502 (Bad Gateway)
+SimpleThemeProvider.tsx:1  Failed to load resource: the server responded with a status of 502 (Bad Gateway)
+TaskDetailPage.tsx:1  Failed to load resource: the server responded with a status of 502 (Bad Gateway)
+tasks.tsx:1  Failed to load resource: the server responded with a status of 502 (Bad Gateway)
+index.tsx:1  Failed to load resource: the server responded with a status of 502 (Bad Gateway)
+ WebSocket connection to 'wss://ec991d2b-a764-4188-9498-5593fabfbba9-00-2ruwx6pcahuv8.riker.replit.dev/?token=KJFAI1iqFk8u' failed: 
+setupWebSocket @ client:536
+ContactLaborDetailPage.tsx:1  Failed to load resource: the server responded with a status of 502 (Bad Gateway)
+index.tsx:1  Failed to load resource: the server responded with a status of 502 (Bad Gateway)
+index.tsx:1  Failed to load resource: the server responded with a status of 502 (Bad Gateway)
+SupplierQuotePage.tsx:1  Failed to load resource: the server responded with a status of 502 (Bad Gateway)
+ContactLaborPage.tsx:1  Failed to load resource: the server responded with a status of 502 (Bad Gateway)
+QuoteDetailPage.tsx:1  Failed to load resource: the server responded with a status of 502 (Bad Gateway)
+index.tsx:1  Failed to load resource: the server responded with a status of 502 (Bad Gateway)
+index.tsx:1  Failed to load resource: the server responded with a status of 502 (Bad Gateway)
+login.tsx:1  Failed to load resource: the server responded with a status of 502 (Bad Gateway)
+project-templates.tsx:1  Failed to load resource: the server responded with a status of 502 (Bad Gateway)
+queryClient.ts:1  Failed to load resource: the server responded with a status of 502 (Bad Gateway)
+card.tsx:1  Failed to load resource: the server responded with a status of 502 (Bad Gateway)
+use-toast.ts:1  Failed to load resource: the server responded with a status of 502 (Bad Gateway)
+toast.tsx:1  Failed to load resource: the server responded with a status of 502 (Bad Gateway)
+Layout.tsx:1  Failed to load resource: the server responded with a status of 502 (Bad Gateway)
+button.tsx:1  Failed to load resource: the server responded with a status of 502 (Bad Gateway)
+input.tsx:1  Failed to load resource: the server responded with a status of 502 (Bad Gateway)
+project-themes.ts:1  Failed to load resource: the server responded with a status of 502 (Bad Gateway)
+useTheme.ts:1  Failed to load resource: the server responded with a status of 502 (Bad Gateway)
+dropdown-menu.tsx:1  Failed to load resource: the server responded with a status of 502 (Bad Gateway)
+select.tsx:1  Failed to load resource: the server responded with a status of 502 (Bad Gateway)
+ProgressBar.tsx:1  Failed to load resource: the server responded with a status of 502 (Bad Gateway)
+avatar-group.tsx:1  Failed to load resource: the server responded with a status of 502 (Bad Gateway)
+status-badge.tsx:1  Failed to load resource: the server responded with a status of 502 (Bad Gateway)
+CreateProjectDialog.tsx:1  Failed to load resource: the server responded with a status of 502 (Bad Gateway)
+EditProjectDialog.tsx:1  Failed to load resource: the server responded with a status of 502 (Bad Gateway)
+utils.ts:1  Failed to load resource: the server responded with a status of 502 (Bad Gateway)
+ec991d2b-a764-4188-9498-5593fabfbba9-00-2ruwx6pcahuv8.riker.replit.dev/api/labor:1  Failed to load resource: the server responded with a status of 500 (Internal Server Error)
+ec991d2b-a764-4188-9498-5593fabfbba9-00-2ruwx6pcahuv8.riker.replit.dev/api/projects/1/labor:1  Failed to load resource: the server responded with a status of 500 (Internal Server Error)
+ec991d2b-a764-4188-9498-5593fabfbba9-00-2ruwx6pcahuv8.riker.replit.dev/api/projects/1/labor:1  Failed to load resource: the server responded with a status of 500 (Internal Server Error)
+ec991d2b-a764-4188-9498-5593fabfbba9-00-2ruwx6pcahuv8.riker.replit.dev/api/projects/1/load-preset-categories:1  Failed to load resource: the server responded with a status of 400 (Bad Request)
+(index):1  Failed to load resource: the server responded with a status of 502 (Bad Gateway)
+ec991d2b-a764-4188-9498-5593fabfbba9-00-2ruwx6pcahuv8.riker.replit.dev/projects/1:1  Failed to load resource: the server responded with a status of 502 (Bad Gateway)
+ec991d2b-a764-4188-9498-5593fabfbba9-00-2ruwx6pcahuv8.riker.replit.dev/api/projects/1/load-preset-categories:1  Failed to load resource: the server responded with a status of 400 (Bad Request)
+ec991d2b-a764-4188-9498-5593fabfbba9-00-2ruwx6pcahuv8.riker.replit.dev/api/projects/1/load-preset-categories:1  Failed to load resource: the server responded with a status of 400 (Bad Request)
+ Applied theme colors to CSS variables: Object
+ Verifying auth token...
+ Auth token valid, user is authenticated
+ 📦 Using sessionStorage theme for project 1: Earth Tone
+ 🎨 Getting project theme for: "Earth Tone"
+ ✅ Found theme by key "earth-tone": Earth Tone
+ Applied theme colors to CSS variables: Object
+ 🎨 Getting project theme for: "earth-tone"
+ ✅ Found theme by key "earth-tone": Earth Tone
+ Applied theme colors to CSS variables: Object
+ 🔧 TasksTabView - Project theme data: Object
+ 🔍 TasksTabView Debug: Object
+ 📋 TasksByCategory Debug: Object
+ Total tasks before filtering: 0
+ Tasks with hasLinkedLabor flag: 0
+ Tasks with laborStartDate: 0
+ Tasks with laborEndDate: 0
+ Tasks with all three conditions: 0
+ ❌ Could not find FR3 task!
+ STRICT FILTERING - Total tasks: 0, Tasks with labor: 0
+ Warning: Connect(Droppable): Support for defaultProps will be removed from memo components in a future major release. Use JavaScript default parameters instead.
+    at Provider (https://ec991d2b-a764-4188-9498-5593fabfbba9-00-2ruwx6pcahuv8.riker.replit.dev/@fs/home/runner/workspace/americancheese/node_modules/.vite/deps/react-beautiful-dnd.js?v=57d69e02:1738:20)
+    at App (https://ec991d2b-a764-4188-9498-5593fabfbba9-00-2ruwx6pcahuv8.riker.replit.dev/@fs/home/runner/workspace/americancheese/node_modules/.vite/deps/react-beautiful-dnd.js?v=57d69e02:8281:25)
+    at ErrorBoundary2 (https://ec991d2b-a764-4188-9498-5593fabfbba9-00-2ruwx6pcahuv8.riker.replit.dev/@fs/home/runner/workspace/americancheese/node_modules/.vite/deps/react-beautiful-dnd.js?v=57d69e02:2778:35)
+    at DragDropContext (https://ec991d2b-a764-4188-9498-5593fabfbba9-00-2ruwx6pcahuv8.riker.replit.dev/@fs/home/runner/workspace/americancheese/node_modules/.vite/deps/react-beautiful-dnd.js?v=57d69e02:8401:19)
+    at div
+    at div
+    at CategoryManager (https://ec991d2b-a764-4188-9498-5593fabfbba9-00-2ruwx6pcahuv8.riker.replit.dev/src/components/project/CategoryManager.tsx:45:35)
+    at div
+    at _c9 (https://ec991d2b-a764-4188-9498-5593fabfbba9-00-2ruwx6pcahuv8.riker.replit.dev/src/components/ui/card.tsx:114:12)
+    at div
+    at _c (https://ec991d2b-a764-4188-9498-5593fabfbba9-00-2ruwx6pcahuv8.riker.replit.dev/src/components/ui/card.tsx:20:11)
+    at div
+    at TasksTabView (https://ec991d2b-a764-4188-9498-5593fabfbba9-00-2ruwx6pcahuv8.riker.replit.dev/src/components/project/TasksTabView.tsx:49:32)
+    at div
+    at https://ec991d2b-a764-4188-9498-5593fabfbba9-00-2ruwx6pcahuv8.riker.replit.dev/@fs/home/runner/workspace/americancheese/node_modules/.vite/deps/chunk-CPFL7ZFD.js?v=57d69e02:41:13
+    at Presence (https://ec991d2b-a764-4188-9498-5593fabfbba9-00-2ruwx6pcahuv8.riker.replit.dev/@fs/home/runner/workspace/americancheese/node_modules/.vite/deps/chunk-AZCBCMZO.js?v=57d69e02:24:11)
+    at https://ec991d2b-a764-4188-9498-5593fabfbba9-00-2ruwx6pcahuv8.riker.replit.dev/@fs/home/runner/workspace/americancheese/node_modules/.vite/deps/@radix-ui_react-tabs.js?v=57d69e02:175:13
+    at _c5 (https://ec991d2b-a764-4188-9498-5593fabfbba9-00-2ruwx6pcahuv8.riker.replit.dev/src/components/ui/tabs.tsx:72:12)
+    at div
+    at https://ec991d2b-a764-4188-9498-5593fabfbba9-00-2ruwx6pcahuv8.riker.replit.dev/@fs/home/runner/workspace/americancheese/node_modules/.vite/deps/chunk-CPFL7ZFD.js?v=57d69e02:41:13
+    at Provider (https://ec991d2b-a764-4188-9498-5593fabfbba9-00-2ruwx6pcahuv8.riker.replit.dev/@fs/home/runner/workspace/americancheese/node_modules/.vite/deps/chunk-LSQNWB54.js?v=57d69e02:38:15)
+    at https://ec991d2b-a764-4188-9498-5593fabfbba9-00-2ruwx6pcahuv8.riker.replit.dev/@fs/home/runner/workspace/americancheese/node_modules/.vite/deps/@radix-ui_react-tabs.js?v=57d69e02:53:7
+    at div
+    at div
+    at div
+    at main
+    at div
+    at Layout (https://ec991d2b-a764-4188-9498-5593fabfbba9-00-2ruwx6pcahuv8.riker.replit.dev/src/components/layout/Layout.tsx:22:26)
+    at ProjectDetailPage (https://ec991d2b-a764-4188-9498-5593fabfbba9-00-2ruwx6pcahuv8.riker.replit.dev/src/pages/projects/[id].tsx:61:18)
+    at AuthCheck (https://ec991d2b-a764-4188-9498-5593fabfbba9-00-2ruwx6pcahuv8.riker.replit.dev/src/App.tsx?v=HTOPFbqybNNzd66X-PVaI:40:22)
+    at ProtectedRoute (https://ec991d2b-a764-4188-9498-5593fabfbba9-00-2ruwx6pcahuv8.riker.replit.dev/src/App.tsx?v=HTOPFbqybNNzd66X-PVaI:121:38)
+    at component
+    at Route (https://ec991d2b-a764-4188-9498-5593fabfbba9-00-2ruwx6pcahuv8.riker.replit.dev/@fs/home/runner/workspace/americancheese/node_modules/.vite/deps/wouter.js?v=57d69e02:323:16)
+    at Switch (https://ec991d2b-a764-4188-9498-5593fabfbba9-00-2ruwx6pcahuv8.riker.replit.dev/@fs/home/runner/workspace/americancheese/node_modules/.vite/deps/wouter.js?v=57d69e02:379:17)
+    at Router
+    at SimpleThemeProvider (https://ec991d2b-a764-4188-9498-5593fabfbba9-00-2ruwx6pcahuv8.riker.replit.dev/src/components/SimpleThemeProvider.tsx:35:39)
+    at QueryClientProvider (https://ec991d2b-a764-4188-9498-5593fabfbba9-00-2ruwx6pcahuv8.riker.replit.dev/@fs/home/runner/workspace/americancheese/node_modules/.vite/deps/@tanstack_react-query.js?v=57d69e02:2805:3)
+    at App
+(anonymous) @ injected.js:37
+ Current Project ID: 1
+ Tier 1 Categories: Array(0)
+ Is Loading Tier 1: true
+ Selected Tier 1: 
+ Tier 2 Categories: Array(0)
+ Available Tier 1 Categories (mapped): Array(0)
+ Available Tier 2 Categories (mapped): Array(0)
+ 🎨 Getting project theme for: "earth-tone"
+ ✅ Found theme by key "earth-tone": Earth Tone
+ Applied theme colors to CSS variables: Object
+ Fetching labor entries specifically for project 1
+ Fetched 0 total labor entries for project 1
+ Found labor entries for 0 different tasks
+ Processing all tasks: Array(0)
+ 🔧 TasksTabView - Project theme data: Object
+ 🔍 TasksTabView Debug: Object
+ 📋 TasksByCategory Debug: Object
+ Total tasks before filtering: 0
+ Tasks with hasLinkedLabor flag: 0
+ Tasks with laborStartDate: 0
+ Tasks with laborEndDate: 0
+ Tasks with all three conditions: 0
+ ❌ Could not find FR3 task!
+ STRICT FILTERING - Total tasks: 0, Tasks with labor: 0
+ 🎨 Getting project theme for: "earth-tone"
+ ✅ Found theme by key "earth-tone": Earth Tone
+ 🔧 TasksTabView - Project theme data: Object
+ 🔍 TasksTabView Debug: Object
+ 📋 TasksByCategory Debug: Object
+ Total tasks before filtering: 0
+ Tasks with hasLinkedLabor flag: 0
+ Tasks with laborStartDate: 0
+ Tasks with laborEndDate: 0
+ Tasks with all three conditions: 0
+ ❌ Could not find FR3 task!
+ STRICT FILTERING - Total tasks: 0, Tasks with labor: 0
+ Current Project ID: 1
+ Tier 1 Categories: Array(0)
+ Is Loading Tier 1: false
+ Selected Tier 1: 
+ Tier 2 Categories: Array(0)
+ Available Tier 1 Categories (mapped): Array(0)
+ Available Tier 2 Categories (mapped): Array(0)
+ Current Project ID: 1
+ Tier 1 Categories: Array(0)
+ Is Loading Tier 1: false
+ Selected Tier 1: 
+ Tier 2 Categories: Array(0)
+ Available Tier 1 Categories (mapped): Array(0)
+ Available Tier 2 Categories (mapped): Array(0)
+ Found 0 labor entries for project 1
+ Tasks with actual labor entries: 
+ API Response for materials query: /api/materials
+ Materials list received, fixing taskIds format if needed
+ 🎨 Getting project theme for: "earth-tone"
+ ✅ Found theme by key "earth-tone": Earth Tone
+ 🔧 TasksTabView - Project theme data: Object
+ 🔍 TasksTabView Debug: Object
+ 📋 TasksByCategory Debug: Object
+ Total tasks before filtering: 0
+ Tasks with hasLinkedLabor flag: 0
+ Tasks with laborStartDate: 0
+ Tasks with laborEndDate: 0
+ Tasks with all three conditions: 0
+ ❌ Could not find FR3 task!
+ STRICT FILTERING - Total tasks: 0, Tasks with labor: 0
+ 🎨 Getting project theme for: "earth-tone"
+ ✅ Found theme by key "earth-tone": Earth Tone
+ 🔧 TasksTabView - Project theme data: Object
+ 🔍 TasksTabView Debug: Object
+ 📋 TasksByCategory Debug: Object
+ Total tasks before filtering: 0
+ Tasks with hasLinkedLabor flag: 0
+ Tasks with laborStartDate: 0
+ Tasks with laborEndDate: 0
+ Tasks with all three conditions: 0
+ ❌ Could not find FR3 task!
+ STRICT FILTERING - Total tasks: 0, Tasks with labor: 0
+ Current Project ID: 1
+ Tier 1 Categories: Array(0)
+ Is Loading Tier 1: false
+ Selected Tier 1: 
+ Tier 2 Categories: Array(0)
+ Available Tier 1 Categories (mapped): Array(0)
+ Available Tier 2 Categories (mapped): Array(0)
+ Current Project ID: 1
+ Tier 1 Categories: Array(0)
+ Is Loading Tier 1: false
+ Selected Tier 1: 
+ Tier 2 Categories: Array(0)
+ Available Tier 1 Categories (mapped): Array(0)
+ Available Tier 2 Categories (mapped): Array(0)
+ 🎨 Getting project theme for: "earth-tone"
+ ✅ Found theme by key "earth-tone": Earth Tone
+ 🔧 TasksTabView - Project theme data: Object
+ 🔍 TasksTabView Debug: Object
+ 📋 TasksByCategory Debug: Object
+ Total tasks before filtering: 0
+ Tasks with hasLinkedLabor flag: 0
+ Tasks with laborStartDate: 0
+ Tasks with laborEndDate: 0
+ Tasks with all three conditions: 0
+ ❌ Could not find FR3 task!
+ STRICT FILTERING - Total tasks: 0, Tasks with labor: 0
+ Verifying auth token...
+ Auth token valid, user is authenticated
+ 📊 Dashboard Tasks Debug: Object
+ Total labor records for dashboard: 0
+ Filtered upcoming labor records: 0
+ Task categories found: Array(0)
+ Progress for project 1 : Object
+ Task categories found: Array(0)
+ Progress for project 2 : Object
+ 🎨 Getting project theme for: "earth-tone"
+ ✅ Found theme by key "earth-tone": Earth Tone
+ 🎨 Project 1 (asdfs) using theme "earth-tone": #556b2f
+ 🎨 Getting project theme for: "earth-tone"
+ ✅ Found theme by key "earth-tone": Earth Tone
+ 🎨 Project 2 (asdfa) using theme "earth-tone": #556b2f
+ 🎨 Getting project theme for: "earth-tone"
+ ✅ Found theme by key "earth-tone": Earth Tone
+ 🎨 Project 1 (asdfs) using theme "earth-tone": #556b2f
+ 🎨 Getting project theme for: "earth-tone"
+ ✅ Found theme by key "earth-tone": Earth Tone
+ 🎨 Project 1 (asdfs) using theme "earth-tone": #556b2f
+ 🎨 Getting project theme for: "earth-tone"
+ ✅ Found theme by key "earth-tone": Earth Tone
+ 🎨 Project 1 (asdfs) using theme "earth-tone": #556b2f
+ 📋 Project 1 (asdfs) categories: Object
+ 🎨 Getting project theme for: "earth-tone"
+ ✅ Found theme by key "earth-tone": Earth Tone
+ 🎨 Project 1 (asdfs) using theme "earth-tone": #556b2f
+ 🎨 Getting project theme for: "earth-tone"
+ ✅ Found theme by key "earth-tone": Earth Tone
+ 🎨 Project 1 (asdfs) using theme "earth-tone": #556b2f
+ 🎨 Getting project theme for: "earth-tone"
+ ✅ Found theme by key "earth-tone": Earth Tone
+ 🎨 Project 1 (asdfs) using theme "earth-tone": #556b2f
+ 🎨 Getting project theme for: "earth-tone"
+ ✅ Found theme by key "earth-tone": Earth Tone
+ 🎨 Project 1 (asdfs) using theme "earth-tone": #556b2f
+ 🎨 Getting project theme for: "earth-tone"
+ ✅ Found theme by key "earth-tone": Earth Tone
+ 🎨 Project 2 (asdfa) using theme "earth-tone": #556b2f
+ 🎨 Getting project theme for: "earth-tone"
+ ✅ Found theme by key "earth-tone": Earth Tone
+ 🎨 Project 2 (asdfa) using theme "earth-tone": #556b2f
+ 🎨 Getting project theme for: "earth-tone"
+ ✅ Found theme by key "earth-tone": Earth Tone
+ 🎨 Project 2 (asdfa) using theme "earth-tone": #556b2f
+ 📋 Project 2 (asdfa) categories: Object
+ 🎨 Getting project theme for: "earth-tone"
+ ✅ Found theme by key "earth-tone": Earth Tone
+ 🎨 Project 2 (asdfa) using theme "earth-tone": #556b2f
+ 🎨 Getting project theme for: "earth-tone"
+ ✅ Found theme by key "earth-tone": Earth Tone
+ 🎨 Project 2 (asdfa) using theme "earth-tone": #556b2f
+ 🎨 Getting project theme for: "earth-tone"
+ ✅ Found theme by key "earth-tone": Earth Tone
+ 🎨 Project 2 (asdfa) using theme "earth-tone": #556b2f
+ 🎨 Getting project theme for: "earth-tone"
+ ✅ Found theme by key "earth-tone": Earth Tone
+ 🎨 Project 2 (asdfa) using theme "earth-tone": #556b2f
+ Applied theme colors to CSS variables: Object
+ 🎨 Cached projects data for theme colors: 2 projects
+ Applied theme colors to CSS variables: Object
+ 📊 Dashboard Tasks Debug: Object
+ Total labor records for dashboard: 0
+ Filtered upcoming labor records: 0
+ Task categories found: Array(0)
+ Progress for project 1 : Object
+ Task categories found: Array(0)
+ Progress for project 2 : Object
+ 🎨 Getting project theme for: "earth-tone"
+ ✅ Found theme by key "earth-tone": Earth Tone
+ 🎨 Project 1 (asdfs) using theme "earth-tone": #556b2f
+ 🎨 Getting project theme for: "earth-tone"
+ ✅ Found theme by key "earth-tone": Earth Tone
+ 🎨 Project 2 (asdfa) using theme "earth-tone": #556b2f
+ 🎨 Getting project theme for: "earth-tone"
+ ✅ Found theme by key "earth-tone": Earth Tone
+ 🎨 Project 1 (asdfs) using theme "earth-tone": #556b2f
+ 🎨 Getting project theme for: "earth-tone"
+ ✅ Found theme by key "earth-tone": Earth Tone
+ 🎨 Project 1 (asdfs) using theme "earth-tone": #556b2f
+ 🎨 Getting project theme for: "earth-tone"
+ ✅ Found theme by key "earth-tone": Earth Tone
+ 🎨 Project 1 (asdfs) using theme "earth-tone": #556b2f
+ 📋 Project 1 (asdfs) categories: Object
+ 🎨 Getting project theme for: "earth-tone"
+ ✅ Found theme by key "earth-tone": Earth Tone
+ 🎨 Project 1 (asdfs) using theme "earth-tone": #556b2f
+ 🎨 Getting project theme for: "earth-tone"
+ ✅ Found theme by key "earth-tone": Earth Tone
+ 🎨 Project 1 (asdfs) using theme "earth-tone": #556b2f
+ 🎨 Getting project theme for: "earth-tone"
+ ✅ Found theme by key "earth-tone": Earth Tone
+ 🎨 Project 1 (asdfs) using theme "earth-tone": #556b2f
+ 🎨 Getting project theme for: "earth-tone"
+ ✅ Found theme by key "earth-tone": Earth Tone
+ 🎨 Project 1 (asdfs) using theme "earth-tone": #556b2f
+ 🎨 Getting project theme for: "earth-tone"
+ ✅ Found theme by key "earth-tone": Earth Tone
+ 🎨 Project 2 (asdfa) using theme "earth-tone": #556b2f
+ 🎨 Getting project theme for: "earth-tone"
+ ✅ Found theme by key "earth-tone": Earth Tone
+ 🎨 Project 2 (asdfa) using theme "earth-tone": #556b2f
+ 🎨 Getting project theme for: "earth-tone"
+ ✅ Found theme by key "earth-tone": Earth Tone
+ 🎨 Project 2 (asdfa) using theme "earth-tone": #556b2f
+ 📋 Project 2 (asdfa) categories: Object
+ 🎨 Getting project theme for: "earth-tone"
+ ✅ Found theme by key "earth-tone": Earth Tone
+ 🎨 Project 2 (asdfa) using theme "earth-tone": #556b2f
+ 🎨 Getting project theme for: "earth-tone"
+ ✅ Found theme by key "earth-tone": Earth Tone
+ 🎨 Project 2 (asdfa) using theme "earth-tone": #556b2f
+ 🎨 Getting project theme for: "earth-tone"
+ ✅ Found theme by key "earth-tone": Earth Tone
+ 🎨 Project 2 (asdfa) using theme "earth-tone": #556b2f
+ 🎨 Getting project theme for: "earth-tone"
+ ✅ Found theme by key "earth-tone": Earth Tone
+ 🎨 Project 2 (asdfa) using theme "earth-tone": #556b2f
+ 📊 Dashboard Tasks Debug: Object
+ Total labor records for dashboard: 0
+ Filtered upcoming labor records: 0
+ Task categories found: Array(0)
+ Progress for project 1 : Object
+ Task categories found: Array(0)
+ Progress for project 2 : Object
+ 🎨 Getting project theme for: "earth-tone"
+ ✅ Found theme by key "earth-tone": Earth Tone
+ 🎨 Project 1 (asdfs) using theme "earth-tone": #556b2f
+ 🎨 Getting project theme for: "earth-tone"
+ ✅ Found theme by key "earth-tone": Earth Tone
+ 🎨 Project 2 (asdfa) using theme "earth-tone": #556b2f
+ 🎨 Getting project theme for: "earth-tone"
+ ✅ Found theme by key "earth-tone": Earth Tone
+ 🎨 Project 1 (asdfs) using theme "earth-tone": #556b2f
+ 🎨 Getting project theme for: "earth-tone"
+ ✅ Found theme by key "earth-tone": Earth Tone
+ 🎨 Project 1 (asdfs) using theme "earth-tone": #556b2f
+ 🎨 Getting project theme for: "earth-tone"
+ ✅ Found theme by key "earth-tone": Earth Tone
+ 🎨 Project 1 (asdfs) using theme "earth-tone": #556b2f
+ 📋 Project 1 (asdfs) categories: Object
+ 🎨 Getting project theme for: "earth-tone"
+ ✅ Found theme by key "earth-tone": Earth Tone
+ 🎨 Project 1 (asdfs) using theme "earth-tone": #556b2f
+ 🎨 Getting project theme for: "earth-tone"
+ ✅ Found theme by key "earth-tone": Earth Tone
+ 🎨 Project 1 (asdfs) using theme "earth-tone": #556b2f
+ 🎨 Getting project theme for: "earth-tone"
+ ✅ Found theme by key "earth-tone": Earth Tone
+ 🎨 Project 1 (asdfs) using theme "earth-tone": #556b2f
+ 🎨 Getting project theme for: "earth-tone"
+ ✅ Found theme by key "earth-tone": Earth Tone
+ 🎨 Project 1 (asdfs) using theme "earth-tone": #556b2f
+ 🎨 Getting project theme for: "earth-tone"
+ ✅ Found theme by key "earth-tone": Earth Tone
+ 🎨 Project 2 (asdfa) using theme "earth-tone": #556b2f
+ 🎨 Getting project theme for: "earth-tone"
+ ✅ Found theme by key "earth-tone": Earth Tone
+ 🎨 Project 2 (asdfa) using theme "earth-tone": #556b2f
+ 🎨 Getting project theme for: "earth-tone"
+ ✅ Found theme by key "earth-tone": Earth Tone
+ 🎨 Project 2 (asdfa) using theme "earth-tone": #556b2f
+ 📋 Project 2 (asdfa) categories: Object
+ 🎨 Getting project theme for: "earth-tone"
+ ✅ Found theme by key "earth-tone": Earth Tone
+ 🎨 Project 2 (asdfa) using theme "earth-tone": #556b2f
+ 🎨 Getting project theme for: "earth-tone"
+ ✅ Found theme by key "earth-tone": Earth Tone
+ 🎨 Project 2 (asdfa) using theme "earth-tone": #556b2f
+ 🎨 Getting project theme for: "earth-tone"
+ ✅ Found theme by key "earth-tone": Earth Tone
+ 🎨 Project 2 (asdfa) using theme "earth-tone": #556b2f
+ 🎨 Getting project theme for: "earth-tone"
+ ✅ Found theme by key "earth-tone": Earth Tone
+ 🎨 Project 2 (asdfa) using theme "earth-tone": #556b2f
+ 📊 Dashboard Tasks Debug: Object
+ Total labor records for dashboard: 0
+ Filtered upcoming labor records: 0
+ Task categories found: Array(0)
+ Progress for project 1 : Object
+ Task categories found: Array(0)
+ Progress for project 2 : Object
+ 🎨 Getting project theme for: "earth-tone"
+ ✅ Found theme by key "earth-tone": Earth Tone
+ 🎨 Project 1 (asdfs) using theme "earth-tone": #556b2f
+ 🎨 Getting project theme for: "earth-tone"
+ ✅ Found theme by key "earth-tone": Earth Tone
+ 🎨 Project 2 (asdfa) using theme "earth-tone": #556b2f
+ 🎨 Getting project theme for: "earth-tone"
+ ✅ Found theme by key "earth-tone": Earth Tone
+ 🎨 Project 1 (asdfs) using theme "earth-tone": #556b2f
+ 🎨 Getting project theme for: "earth-tone"
+ ✅ Found theme by key "earth-tone": Earth Tone
+ 🎨 Project 1 (asdfs) using theme "earth-tone": #556b2f
+ 🎨 Getting project theme for: "earth-tone"
+ ✅ Found theme by key "earth-tone": Earth Tone
+ 🎨 Project 1 (asdfs) using theme "earth-tone": #556b2f
+ 📋 Project 1 (asdfs) categories: Object
+ 🎨 Getting project theme for: "earth-tone"
+ ✅ Found theme by key "earth-tone": Earth Tone
+ 🎨 Project 1 (asdfs) using theme "earth-tone": #556b2f
+ 🎨 Getting project theme for: "earth-tone"
+ ✅ Found theme by key "earth-tone": Earth Tone
+ 🎨 Project 1 (asdfs) using theme "earth-tone": #556b2f
+ 🎨 Getting project theme for: "earth-tone"
+ ✅ Found theme by key "earth-tone": Earth Tone
+ 🎨 Project 1 (asdfs) using theme "earth-tone": #556b2f
+ 🎨 Getting project theme for: "earth-tone"
+ ✅ Found theme by key "earth-tone": Earth Tone
+ 🎨 Project 1 (asdfs) using theme "earth-tone": #556b2f
+ 🎨 Getting project theme for: "earth-tone"
+ ✅ Found theme by key "earth-tone": Earth Tone
+ 🎨 Project 2 (asdfa) using theme "earth-tone": #556b2f
+ 🎨 Getting project theme for: "earth-tone"
+ ✅ Found theme by key "earth-tone": Earth Tone
+ 🎨 Project 2 (asdfa) using theme "earth-tone": #556b2f
+ 🎨 Getting project theme for: "earth-tone"
+ ✅ Found theme by key "earth-tone": Earth Tone
+ 🎨 Project 2 (asdfa) using theme "earth-tone": #556b2f
+ 📋 Project 2 (asdfa) categories: Object
+ 🎨 Getting project theme for: "earth-tone"
+ ✅ Found theme by key "earth-tone": Earth Tone
+ 🎨 Project 2 (asdfa) using theme "earth-tone": #556b2f
+ 🎨 Getting project theme for: "earth-tone"
+ ✅ Found theme by key "earth-tone": Earth Tone
+ 🎨 Project 2 (asdfa) using theme "earth-tone": #556b2f
+ 🎨 Getting project theme for: "earth-tone"
+ ✅ Found theme by key "earth-tone": Earth Tone
+ 🎨 Project 2 (asdfa) using theme "earth-tone": #556b2f
+ 🎨 Getting project theme for: "earth-tone"
+ ✅ Found theme by key "earth-tone": Earth Tone
+ 🎨 Project 2 (asdfa) using theme "earth-tone": #556b2f
+ 📊 Dashboard Tasks Debug: Object
+ Total labor records for dashboard: 0
+ Filtered upcoming labor records: 0
+ Task categories found: Array(0)
+ Progress for project 1 : Object
+ Task categories found: Array(0)
+ Progress for project 2 : Object
+ 🎨 Getting project theme for: "earth-tone"
+ ✅ Found theme by key "earth-tone": Earth Tone
+ 🎨 Project 1 (asdfs) using theme "earth-tone": #556b2f
+ 🎨 Getting project theme for: "earth-tone"
+ ✅ Found theme by key "earth-tone": Earth Tone
+ 🎨 Project 2 (asdfa) using theme "earth-tone": #556b2f
+ 🎨 Getting project theme for: "earth-tone"
+ ✅ Found theme by key "earth-tone": Earth Tone
+ 🎨 Project 1 (asdfs) using theme "earth-tone": #556b2f
+ 🎨 Getting project theme for: "earth-tone"
+ ✅ Found theme by key "earth-tone": Earth Tone
+ 🎨 Project 1 (asdfs) using theme "earth-tone": #556b2f
+ 🎨 Getting project theme for: "earth-tone"
+ ✅ Found theme by key "earth-tone": Earth Tone
+ 🎨 Project 1 (asdfs) using theme "earth-tone": #556b2f
+injected.js:37 📋 Project 1 (asdfs) categories: Object
+injected.js:37 🎨 Getting project theme for: "earth-tone"
+injected.js:37 ✅ Found theme by key "earth-tone": Earth Tone
+injected.js:37 🎨 Project 1 (asdfs) using theme "earth-tone": #556b2f
+injected.js:37 🎨 Getting project theme for: "earth-tone"
+injected.js:37 ✅ Found theme by key "earth-tone": Earth Tone
+injected.js:37 🎨 Project 1 (asdfs) using theme "earth-tone": #556b2f
+injected.js:37 🎨 Getting project theme for: "earth-tone"
+injected.js:37 ✅ Found theme by key "earth-tone": Earth Tone
+injected.js:37 🎨 Project 1 (asdfs) using theme "earth-tone": #556b2f
+injected.js:37 🎨 Getting project theme for: "earth-tone"
+injected.js:37 ✅ Found theme by key "earth-tone": Earth Tone
+injected.js:37 🎨 Project 1 (asdfs) using theme "earth-tone": #556b2f
+injected.js:37 🎨 Getting project theme for: "earth-tone"
+injected.js:37 ✅ Found theme by key "earth-tone": Earth Tone
+injected.js:37 🎨 Project 2 (asdfa) using theme "earth-tone": #556b2f
+injected.js:37 🎨 Getting project theme for: "earth-tone"
+injected.js:37 ✅ Found theme by key "earth-tone": Earth Tone
+injected.js:37 🎨 Project 2 (asdfa) using theme "earth-tone": #556b2f
+injected.js:37 🎨 Getting project theme for: "earth-tone"
+injected.js:37 ✅ Found theme by key "earth-tone": Earth Tone
+injected.js:37 🎨 Project 2 (asdfa) using theme "earth-tone": #556b2f
+injected.js:37 📋 Project 2 (asdfa) categories: Object
+injected.js:37 🎨 Getting project theme for: "earth-tone"
+injected.js:37 ✅ Found theme by key "earth-tone": Earth Tone
+injected.js:37 🎨 Project 2 (asdfa) using theme "earth-tone": #556b2f
+injected.js:37 🎨 Getting project theme for: "earth-tone"
+injected.js:37 ✅ Found theme by key "earth-tone": Earth Tone
+injected.js:37 🎨 Project 2 (asdfa) using theme "earth-tone": #556b2f
+injected.js:37 🎨 Getting project theme for: "earth-tone"
+injected.js:37 ✅ Found theme by key "earth-tone": Earth Tone
+injected.js:37 🎨 Project 2 (asdfa) using theme "earth-tone": #556b2f
+injected.js:37 🎨 Getting project theme for: "earth-tone"
+injected.js:37 ✅ Found theme by key "earth-tone": Earth Tone
+injected.js:37 🎨 Project 2 (asdfa) using theme "earth-tone": #556b2f
+stallwart.build.js:1 stallwart: failed ping 1
+Sitesetupsfinal:1  Failed to load resource: the server responded with a status of 403 ()
